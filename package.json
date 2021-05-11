@@ -1,0 +1,12 @@
+{
+  "name": "arcade-libs",
+  "version": "1.0.0",
+  "description": "Reusable libraries for Arcade projects",
+  "main": "index.js",
+  "author": "Mike Carbone",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "json-beautify": "^1.1.1"
+  }
+}
